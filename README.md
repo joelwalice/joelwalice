@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joelwalice
+- 💞️ I'm Fresshmen at Sastra university, Thnjavur.
+- 👀 I’m interested in technology based stuffs.
+- 🌱 I’m currently learning Blockchainand cryptocurrency.
+- 📫 You can rech me through email(joelwalice@gmail.com)
