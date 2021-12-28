@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joelwalice
+- 👋 Hi, I’m @Joelwalice
 - 💞️ I'm Freshmen at Sastra university, Thnjavur.
 - 👀 I’m interested in technology based stuffs.
 - 🌱 I’m currently learning Blockchainand cryptocurrency.
