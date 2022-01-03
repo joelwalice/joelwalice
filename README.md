@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joelwalice
-- 💞️ I'm Freshmen at Sastra university, Thnjavur.
+- 💞️ I'm Freshmen at Sastra university, Thanjavur.
 - 👀 I’m interested in technology based stuffs.
 - 🌱 I’m currently learning Blockchainand cryptocurrency.
 - 📫 You can reach me through email(joelwalice@gmail.com)
