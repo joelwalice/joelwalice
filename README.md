@@ -3,3 +3,4 @@
 - 👀 I’m interested in technology based stuffs.
 - 🌱 I’m currently learning Blockchainand cryptocurrency.
 - 📫 You can reach me through email(joelwalice@gmail.com)
+Follow me on Instagram https://www.instagram.com/wanna_see_my_life/
