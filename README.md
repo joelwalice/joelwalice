@@ -1,15 +1,6 @@
-
-
-
-
- 
-
-
-<h1 align="center">Hi 👋, I'm Joel W</h1>
+<h1 align="center">Hi 👋 I'm Joel W</h1>
 
 <h3 align="center">A passionate video editor and frontend developer from India.</h3>
-
-
 
 - 🌱 I’m currently learning **Frontend,Backend development.**
 
@@ -19,13 +10,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelwalice" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelwalice" height="30" width="40" /></a>
-
-<a href="https://instagram.com/wanna_see_my_life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanna_see_my_life" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joelwalice" height="30" width="40" /></a>
+<a href="https://twitter.com/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joelwalice" height="30" width="40" /></a><a href="https://linkedin.com/in/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelwalice" height="30" width="40" /></a><a href="https://instagram.com/wanna_see_my_life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanna_see_my_life" height="30" width="40" /></a><a href="https://www.hackerrank.com/joelwalice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joelwalice" height="30" width="40" /></a>
 
 </p>
 
