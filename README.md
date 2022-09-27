@@ -3,4 +3,4 @@
 - 👀 I’m interested in technology based stuffs.
 - 🌱 I’m currently learning Web development.
 - 📫 You can reach me through email(joelwalice@gmail.com)
-- Follow me on Instagram https:/
+
