@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frontend,Backend development.**
 
-- 📫 How to reach me **joelwalice@gmail.com**
+- 📫 You can reach me **joelwalice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
