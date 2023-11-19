@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelwalice&label=Profile%20views&color=0e75b6&style=flat" alt="joelwalice" /> </p>
 
-- 🔭 I’m currently working as **Video Editor intern**
+- 🔭 I’m currently working as a **Freelance Full Stack Web Developer**
 
 - 🌱 I’m currently learning **how to contribute on Open Source**
 
